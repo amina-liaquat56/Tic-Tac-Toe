@@ -34,4 +34,4 @@ No installation required! Just open `index.html` in your browser.
 Alternatively, you can:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahnoor-987/tic-tac-toe.git
+   https://github.com/mahnoor-987/Tic-Tac-Toe-.git
